@@ -20,7 +20,6 @@ You can use the qr code below to download & install .cia from 3ds(Thanks @Minion
 
 ## Screenshots
 <img src="https://imgur.com/n0ohaLN" width="400" height="480"> ![](https://imgur.com/eKnO9ES)  
-23
 ![](https://imgur.com/kEahgJp)
 
 ## Features
