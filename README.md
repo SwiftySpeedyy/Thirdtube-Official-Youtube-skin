@@ -19,7 +19,8 @@ You can use the qr code below to download & install .cia from 3ds(Thanks @Minion
 <img src="https://github.com/windows-server-2003/ThirdTube/blob/main/images/qr_code.png" width="200" height="200">
 
 ## Screenshots
-<img src="https://imgur.com/n0ohaLN" width="400" height="480"> ![](https://imgur.com/eKnO9ES)  
+<img src="![image](https://user-images.githubusercontent.com/128943413/227810306-677823e3-cbcb-459c-90d9-6297a09b3780.png)
+" width="400" height="480"> ![](https://imgur.com/eKnO9ES)  
 ![](https://imgur.com/kEahgJp)
 
 ## Features
